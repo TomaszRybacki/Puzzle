@@ -1,2 +1,2 @@
 # Puzzle
-puzzle 20 elements
+Designed only for pc. Don't work on mobile.
